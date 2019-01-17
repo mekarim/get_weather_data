@@ -1,0 +1,1 @@
+Hacky way to collect data from : www.timeanddate.com, for example: https://www.timeanddate.com/weather/bangladesh/dhaka/historic?month=1&year=2017. The code is primarily a cleaned up version of a few stack overflow question answers.
